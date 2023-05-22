@@ -1,0 +1,1 @@
+       1       0       1 tests/inputs/two_empty_lines.txt

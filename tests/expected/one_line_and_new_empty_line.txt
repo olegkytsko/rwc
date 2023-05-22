@@ -1,0 +1,1 @@
+       1       2      12 tests/inputs/one_line_and_new_empty_line.txt
